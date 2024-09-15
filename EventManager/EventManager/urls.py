@@ -28,7 +28,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="Event Manager API",
         default_version='v1',
-        description="Event Manager API of DRF",
+        description="Event Manager API on DRF",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="vlad.pav.dw@gmail.com"),
         license=openapi.License(name="BSD License"),
