@@ -12,7 +12,7 @@ Clone project
   cd EventManager
 ```
 
-Docker
+Install by docker
 
 ```bash
   //Build image
