@@ -79,8 +79,11 @@ Create superuser
 ```
 Write superuser username, email and password 
 
+## Swager
 
-
+```http
+  GET /swagger/
+```
 
 
 ## API Reference
