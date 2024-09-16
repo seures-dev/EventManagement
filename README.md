@@ -79,7 +79,7 @@ Create superuser
 ```
 Write superuser username, email and password 
 
-## Swager
+## Swagger
 
 ```http
   http://${host}:${port}/swagger/
