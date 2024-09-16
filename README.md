@@ -1,5 +1,5 @@
 # Test task
-Python (Django) test task
+Python [Django] test task
 Develop a Django REST-Api for Event Management
 The primary goal of this task is to create a Django-based REST-Api that manages
 events (like conferences, meetups, etc.). The application will allow users to create,
@@ -8,18 +8,18 @@ events.
 
 Key Requirements
 - Design an Event model with fields such as title, description, date, location,
-and organizer.  (Done)
+and organizer.    [Done]
 - Implement CRUD (Create, Read, Update, Delete) operations for the Event
-model. (Done)
-- Basic User Registration and Authentication. (Done)
-- Event Registration (Done)
-- API documentation (Done)
-- Docker (Done)
-- Readme file (Done)
+model.   [Done]
+- Basic User Registration and Authentication.   [Done]
+- Event Registration   [Done]
+- API documentation   [Done]
+- Docker   [Done]
+- Readme file   [Done]
 
 Bonus Points
-- Implement an advanced feature like event search or filtering. (In progress)
-- Add a feature for sending email notifications to users upon event registration. (In progress)
+- Implement an advanced feature like event search or filtering.   [In progress]
+- Add a feature for sending email notifications to users upon event registration.   [In progress]
   
 # EventManagement
 This is an API for event management, you can both register for existing events and create your own. To register for an event, you only need a name and email, to create your own event, you need to register in the API.
