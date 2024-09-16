@@ -82,7 +82,7 @@ Write superuser username, email and password
 ## Swager
 
 ```http
-  GET /swagger/
+  http://${host}:${port}/swagger/
 ```
 
 
